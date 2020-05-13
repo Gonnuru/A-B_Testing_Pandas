@@ -7,9 +7,10 @@ ShoeFly.com is performing an A/B Test. They have two different versions of an ad
 This is a short A/B test performed by me on ShoeFly.com [dataset]() using Pandas. In this A/B test I have performed the following tasks:
 - Cleaned the data ![Data]()
 - Analyzed which ad platform is getting shoefly more views ![Ad Platform Analysis]()
-- The percentage of people who clicked on the ads ![Percentage]()
-- Visualized the data better by using pivot ![Pivoted Data]()
+- The percentage of people who clicked on the ads 
+- Visualized the data better by using pivot 
 - Number of people who clicked on the ads for each source ![# of people]()
+- Found whether user was shown Ad A or Ad B ![experimental]()
 - Percent of people who clicked on the ad by day ![% by ad]()
-- Compared results for A and B. What happened over the course of the week ![comparision]()
+- Compared results for A and B. What happened over the course of the week
 - Recommended among which ad to choose from Ad A or Ad B ![Reccomendation]()
