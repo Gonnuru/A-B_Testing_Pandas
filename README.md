@@ -8,9 +8,9 @@ This is a short A/B test performed by me on ShoeFly.com [dataset](https://github
 - Cleaned the data ![Data](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/data.jpg)
 - Analyzed which ad platform is getting shoefly more views 
 ![Ad Platform Analysis](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/ad_platform_analysis.jpg)
-- The percentage of people who clicked on the ads 
+- The percentage of people who clicked on the ads ![percentage](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/percentage.jpg)
 - Visualized the data better by using pivot 
-- Number of people who clicked on the ads for each source ![# of people]()
+- Number of people who clicked on the ads for each source 
 - Found whether user was shown Ad A or Ad B ![experimental]()
 - Percent of people who clicked on the ad by day ![% by ad]()
 - Compared results for A and B. What happened over the course of the week
