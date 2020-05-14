@@ -11,7 +11,7 @@ This is a short A/B test performed by me on ShoeFly.com [dataset](https://github
 - The percentage of people who clicked on the ads ![percentage](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/percentage.jpg)
 - Visualized the data better by using pivot 
 - Number of people who clicked on the ads for each source 
-- Found whether user was shown Ad A or Ad B ![experimental]()
-- Percent of people who clicked on the ad by day ![% by ad]()
+- Found whether user was shown Ad A or Ad B ![experimental](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/experiment.jpg)
+- Percent of people who clicked on the ad by day ![% by ad](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/percentage.jpg)
 - Compared results for A and B. What happened over the course of the week
-- Recommended among which ad to choose from Ad A or Ad B ![Reccomendation]()
+- Recommended among which ad to choose from Ad A or Ad B ![Reccomendation](https://github.com/Gonnuru/A-B_Testing_Pandas/blob/master/output_images/useraorb.jpg)
